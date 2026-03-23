@@ -1,8 +1,8 @@
 # 🎬 VidFlow
-
 Projeto desenvolvido durante a formação Desenvolvedor Front-End da Alura, com foco no aprendizado do ambiente moderno de desenvolvimento front-end utilizando Node.js e terminal.
 
 O projeto consiste em uma aplicação inspirada no YouTube, onde são exibidos vídeos em uma interface web, evoluindo de um projeto estático para um fluxo profissional utilizando ferramentas modernas do ecossistema JavaScript.
+
 ---
 
 ## 🚀 Objetivo do Projeto
